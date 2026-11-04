@@ -1,3 +1,1 @@
-print(
-Hellow
-)
+print('Hello, World')
